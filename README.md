@@ -17,16 +17,16 @@
 </p>
 
 ---
-
 ## 🧑‍💻 About Me
 
-I'm a **BCA graduate and passionate Frontend Developer** focused on building responsive and interactive web applications.
+I'm a **BCA graduate and aspiring Full Stack Developer** passionate about building modern, responsive, and user-friendly web applications.
 
-- 🌱 Currently learning **JavaScript & React.js**
-- 💻 Building projects to improve my development skills
-- 🧠 Practicing JavaScript logic and problem solving
-- 🎯 Goal: Become a skilled Software Developer
-- 🚀 Interested in modern web development and UI
+- 🌱 Currently strengthening my skills in **JavaScript, React.js, and Full Stack Development**
+- 💻 Building projects to gain hands-on experience in **frontend, backend, and databases**
+- 🧠 Practicing **JavaScript, DSA, and problem solving** regularly
+- ⚙️ Exploring technologies like **Node.js, Express.js, and MongoDB**
+- 🚀 Interested in building **scalable and real-world web applications**
+- 🎯 Goal: Become a skilled **Full Stack Software Developer**
 
 ---
 
@@ -34,35 +34,176 @@ I'm a **BCA graduate and passionate Frontend Developer** focused on building res
 
 ### 💻 Languages
 
-<p align="center">
-  <b>Languages</b>
-  &nbsp;&nbsp;→&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp" height="45">
-</p>
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>→</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="55"><br>
+HTML
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="55"><br>
+CSS
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" width="55"><br>
+JavaScript
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=c" width="55"><br>
+C
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=cpp" width="55"><br>
+C++
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=java" width="55"><br>
+Java
+</td>
+
+</tr>
+</table>
+
+---
 
 ### ⚛️ Frontend
 
-<p align="center">
-  <b>Frontend</b>
-  &nbsp;&nbsp;→&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react,tailwind,gsap" height="45">
-</p>
+<table>
+<tr>
+<td><b>Frontend</b></td>
+<td>→</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="55"><br>
+React.js
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=redux" width="55"><br>
+Redux
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tailwind" width="55"><br>
+Tailwind CSS
+</td>
+
+</tr>
+</table>
+
+---
 
 ### 🖥️ Backend & Database
 
-<p align="center">
-  <b>Backend</b>
-  &nbsp;&nbsp;→&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="45">
-</p>
+<table>
+<tr>
+<td><b>Backend & Database</b></td>
+<td>→</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="55"><br>
+Node.js
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=express" width="55"><br>
+Express.js
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" width="55"><br>
+MongoDB
+</td>
+
+</tr>
+</table>
+
+---
+
+### 📊 DSA
+
+<table>
+<tr>
+<td><b>DSA</b><br><sub>Data Structures & Algorithms</sub></td>
+<td>→</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/%5B%20%5D-6f42c1?style=for-the-badge" height="40"><br>
+Arrays
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/%E2%9B%93-6f42c1?style=for-the-badge" height="40"><br>
+Linked List
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/%E2%9A%9B-6f42c1?style=for-the-badge" height="40"><br>
+Stack
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/%E2%86%94-6f42c1?style=for-the-badge" height="40"><br>
+Queue
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/%F0%9F%8C%B3-6f42c1?style=for-the-badge" height="40"><br>
+Tree
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/%E2%9C%A3-6f42c1?style=for-the-badge" height="40"><br>
+Graph
+</td>
+
+</tr>
+</table>
+
+---
 
 ### 🔧 Tools & Others
 
-<p align="center">
-  <b>Tools</b>
-  &nbsp;&nbsp;→&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" height="45">
-</p>
+<table>
+<tr>
+<td><b>Tools</b></td>
+<td>→</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="55"><br>
+Git
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="55"><br>
+GitHub
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="55"><br>
+VS Code
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postman" width="55"><br>
+Postman
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=intellijidea" width="55"><br>
+IntelliJ IDEA
+</td>
+
+</tr>
+</table>
 
 ---
 
