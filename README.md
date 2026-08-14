@@ -198,13 +198,19 @@ Postman
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=intellijidea" width="55"><br>
+<img src="https://skillicons.dev/icons?i=vercel" width="55"><br>
+Vercel
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=idea" width="55"><br>
 IntelliJ IDEA
 </td>
 
 </tr>
 </table>
 
+---
 ---
 
 ## 📈 GitHub Activity
