@@ -66,64 +66,11 @@ I'm a **BCA graduate and passionate Frontend Developer** focused on building res
 
 ---
 
-## 🚀 Projects
-
-### 🎵 Spotify Clone
-Responsive Spotify-inspired frontend project.
-
-### 🛒 E-Commerce Food Delivery
-Food delivery website with product browsing and cart functionality.
-
-### 💼 Personal Portfolio
-Responsive portfolio website showcasing skills and projects.
-
-### 🍔 Food Delivery Website
-Responsive food delivery UI with **Add to Cart** functionality.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=suhailDev01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    height="180"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhailDev01&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
-
----
-
 ## 📈 GitHub Activity
 
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=suhailDev01&theme=tokyo-night&hide_border=true&area=true"
-    width="100%"
-  />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=suhailDev01&theme=tokyonight&hide_border=true"
-  />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=suhailDev01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6"
     width="100%"
   />
 </p>
