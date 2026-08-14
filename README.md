@@ -1,72 +1,102 @@
-# Hi 👋, I'm Suhail Ahamad
+# Suhail Ahamad
 
-### Aspiring Full-Stack Developer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:0369a1&height=220&section=header&text=Suhail%20Ahamad&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20JavaScript%20Learner%20%7C%20React%20Enthusiast&descSize=20&descAlignY=60" width="100%"/>
+</p>
 
-I'm a BCA graduate currently learning full-stack web development and building my skills through projects and consistent coding practice.
-
-I enjoy building web applications, learning new technologies, and improving my problem-solving skills.
+<p align="center">
+  <a href="https://github.com/suhailDev01">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/sk-learner">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:suhailkhan86044048@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
 ---
 
-## 🚀 Currently Learning
+## 🧑‍💻 About Me
 
-- JavaScript — Deepening fundamentals and problem solving
-- React.js — Building interactive web applications
-- Node.js & Express.js — Backend development
-- MongoDB — Database fundamentals
-- REST APIs — Connecting frontend and backend
-- Git & GitHub — Version control and collaboration
-- DSA — Improving problem-solving skills
+I'm a **BCA graduate and passionate Frontend Developer** focused on building responsive and interactive web applications.
+
+- 🌱 Currently learning **JavaScript & React.js**
+- 💻 Building projects to improve my development skills
+- 🧠 Practicing JavaScript logic and problem solving
+- 🎯 Goal: Become a skilled Software Developer
+- 🚀 Interested in modern web development and UI
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
-C · C++ · Java · JavaScript
+<p align="center">
+  <b>Languages</b>
+  &nbsp;&nbsp;→&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp" height="45">
+</p>
 
-### Frontend
+### ⚛️ Frontend
 
-HTML · CSS · JavaScript · React.js · Tailwind CSS
+<p align="center">
+  <b>Frontend</b>
+  &nbsp;&nbsp;→&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react,tailwind,gsap" height="45">
+</p>
 
-### Backend
+### 🖥️ Backend & Database
 
-Node.js · Express.js · REST APIs
+<p align="center">
+  <b>Backend</b>
+  &nbsp;&nbsp;→&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="45">
+</p>
 
-### Database
+### 🔧 Tools & Others
 
-MongoDB · SQL
-
-### Tools
-
-Git · GitHub · VS Code · npm · Postman
-
----
-
-## 💻 Projects
-
-- 🎵 Spotify Clone
-- 🍔 Food Delivery Website
-- 👨‍💻 Personal Portfolio
-- 🛡️ Cyber Crime Reporting Portal
-
----
-
-## 🎯 Goal
-
-To become a strong full-stack developer by building real-world projects, improving problem-solving skills, and continuously learning modern web technologies.
+<p align="center">
+  <b>Tools</b>
+  &nbsp;&nbsp;→&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" height="45">
+</p>
 
 ---
 
-## 📈 My Learning Journey
+## 🚀 Projects
 
-I regularly practice coding, build projects, and document my learning journey through GitHub.
+### 🎵 Spotify Clone
+Responsive Spotify-inspired frontend project.
+
+### 🛒 E-Commerce Food Delivery
+Food delivery website with product browsing and cart functionality.
+
+### 💼 Personal Portfolio
+Responsive portfolio website showcasing skills and projects.
+
+### 🍔 Food Delivery Website
+Responsive food delivery UI with **Add to Cart** functionality.
 
 ---
 
-## 🤝 Connect With Me
+## 📊 GitHub Stats
 
-- 💻 GitHub: [@suhailDev01](https://github.com/suhailDev01)
-- 💼 LinkedIn: [Suhail Ahmad](https://www.linkedin.com/in/sk-learner)
-- 📧 Email: [suhailkhan86044048@gmail.com](mailto:suhailkhan86044048@gmail.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suhailDev01&show_icons=true&theme=tokyonight&hide_border=true" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhailDev01&layout=compact&theme=tokyonight&hide_border=true" height="180">
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=suhailDev01&theme=tokyonight&hide_border=true">
+</p>
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
